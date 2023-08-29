@@ -1,4 +1,4 @@
-<h2 id="readme-top" align="center">Overview</h2>
+<h2 id="readme-top" align="center">NinjaMan</h2>
 
 <div align="center">
   <h3>Technologies & Tools</h3>
@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <h2 id="ninjaman">NinjaMan</h2>
+  <h2>Screenshots</h2>
 </div>
 <div>
   <h3>Game Start</h3>
@@ -20,12 +20,5 @@
   <h3>Score</h3>
   <img src="https://raw.githubusercontent.com/kenzilai/NinjaMan/main/README%20Assets/Score.jpg">
 </div>
-
-<div align="center">
-  <h2>Contact</h2>
-</div>
-
-- [Linkedin](https://www.linkedin.com/in/kenzi-lai)
-- Email: kenzi.lai.klai@gmail.com
 
 <p align="right"><a href="#readme-top">back to top &uarr;</a></p>
